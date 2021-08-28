@@ -1,7 +1,7 @@
 # Python Lecture Notes
 
 ## [1장: 프로그래밍 언어와 파이썬](01.python-programming-handout.pdf)
-## 2장: 파이썬 프로그래밍 환경
+## [2장: 파이썬 프로그래밍 환경](02.python-programming-environment-handout.pdf)
 ## 3장/4장: 파이썬 문법 미리 알아두기/식별자와 예약어
 ## 5장: 기본자료형
 ## 6장: 복합자료형
