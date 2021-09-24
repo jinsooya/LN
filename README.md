@@ -5,7 +5,7 @@
 ## [3장/4장: 파이썬 문법 미리 알아두기/식별자와 예약어](03-04.preview-of-python-syntax-and-identifiers-handout.pdf)
 ## [5장: 기본자료형](05.basic-data-types-handout.pdf)
 ## [6장: 복합자료형](06.compound-data-types-handout.pdf)
-## 7장: 객체 복사, 순회 연산자와 함수
+## [7장: 객체 복사, 순회 연산자와 함수](07.copying-objects-and-iterating-operations-handout.pdf)
 ## 실습: 복합자료형과 순회형 연산
 ## 8장: 제어문
 ## 9장: 예외 처리
