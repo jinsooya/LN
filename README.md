@@ -11,6 +11,6 @@
 ## [9장: 예외 처리](09.exception-Handling-handout.pdf)
 ## [10장: 파이썬의 조립 블록 구성 요소](10.assembly-block-components-handout.pdf)
 ## [11장: 파일 처리](11.file-handling-handout.pdf)
-## 12장: 클래스와 객체
+## [12장: 클래스와 객체](12.classes-and-objects-handout.pdf)
 
 ### 강의 교재: <https://github.com/snu-python/pythonbook>
